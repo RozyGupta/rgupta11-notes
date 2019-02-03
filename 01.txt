@@ -1,0 +1,7 @@
+==========================================================================================================================
+After Class(01-28-201)
+===========================================================================================================================
+I had a question after reading the pre readings that why is documentation important.
+After the Professor explained in the class, I understood that if we solved an issue and we had the same issue later on than documentation helps in solving it easily.
+
+Also, I understood after the class that system administrator's role is not just confined to managing computers but there is lot involved with the job duties.
