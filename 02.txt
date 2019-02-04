@@ -1,0 +1,7 @@
+
+===============================================================================
+Questions that I have before Class:
+================================================================================
+(1) How do we actually decide which storage device should we use?
+(2) Though I understand the differences between SAN and NAS, what are the pros and cons of using both?
+(3) Not able to mount a file system after detaching from one instance and attaching to another.
